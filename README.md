@@ -220,7 +220,7 @@ EOF
 
 # Show-Case
 
-!![Image Alt](
+!![Image Alt](https://github.com/Rishisann-tech/Advance-temperature-monitor/blob/58c9a3a0a257787c7792118d7525aaf63ad83463/Screenshot_20250807-233710_Termux.png)
 
 
 
