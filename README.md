@@ -209,6 +209,17 @@ if __name__ == "__main__":
 EOF
 
 ```
+# How-To-Use
+• exit and open the termux app 
+
+• Type **temp** and enter
+
+• u'll get the temperatures 🌡️ 
+
+• Make sure u gave the root access
+
+# Show-Case
+
 
 
 
